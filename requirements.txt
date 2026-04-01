@@ -1,0 +1,8 @@
+streamlit
+keras-facenet
+scikit-learn
+opencv-python-headless
+tensorflow
+joblib
+streamlit-lottie 
+requests
