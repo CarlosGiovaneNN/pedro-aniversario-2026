@@ -1,6 +1,6 @@
 streamlit
 keras-facenet
-scikit-learn==1.2.2
+scikit-learn
 opencv-python-headless
 tensorflow-cpu
 joblib
