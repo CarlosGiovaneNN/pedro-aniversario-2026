@@ -1,8 +1,9 @@
 streamlit
 keras-facenet
-scikit-learn
+scikit-learn==1.2.2
 opencv-python-headless
-tensorflow
+tensorflow-cpu
 joblib
-streamlit-lottie 
+streamlit-lottie
 requests
+pillow
